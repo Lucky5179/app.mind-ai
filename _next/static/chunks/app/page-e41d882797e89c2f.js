@@ -134,7 +134,7 @@
                         children: (0, n.jsx)("li", {
                           children: (0, n.jsx)("a", {
                             className: "js_modal",
-                            href: "#buy",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x599A6f6dadf67b1736C24432154d5b8Eb175E507",
                             children: "$MAI",
                           }),
                         }),
